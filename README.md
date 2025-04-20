@@ -92,7 +92,7 @@ Each record follows the format:
 **Annepu Naveen**  
 🎓 B.Tech in CSE (AI & ML)  
 💻 Machine Learning | NLP | AI Intern  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile) • 💡 [GitHub](https://github.com/your-username)
+📫 [LinkedIn](https://www.linkedin.com/in/annepu-naveen-164333257/) • 💡 [GitHub](https://github.com/your-username)
 
 ---
 
